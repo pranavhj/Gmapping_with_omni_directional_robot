@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'wheel1', 'w1r1', 'w1r2', 'w1r3', 'w1r4', 'w1r5', 'w1r6', 'w1r7', 'w1r8', 'w1r9', 'w1r10', 'wheel2', 'w2r1', 'w2r2', 'w2r3', 'w2r4', 'w2r5', 'w2r6', 'w2r7', 'w2r8', 'w2r9', 'w2r10', 'wheel3', 'w3r1', 'w3r2', 'w3r3', 'w3r4', 'w3r5', 'w3r6', 'w3r7', 'w3r8', 'w3r9', 'w3r10', ]
